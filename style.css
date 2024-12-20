@@ -66,6 +66,7 @@
 .slider-top {
   color: #083c3c;
   font-size: 24px;
+  font-weight: 600;
 }
 .slider-bottom {
   display: flex;
